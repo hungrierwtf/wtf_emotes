@@ -8,8 +8,9 @@
 // @match http://what.thedailywtf.com/*
 // @description Inverts emojis for dark themes
 // @author hungrier
-// @version 1.7
+// @version 1.7.1
 // @downloadURL https://github.com/hungrierwtf/wtf_emotes/raw/master/invertemoji.user.js
+// @homepageURL https://github.com/hungrierwtf/wtf_emotes/
 // ==/UserScript==
 (function() {
 
