@@ -6,9 +6,9 @@
 // @grant none
 // @match https://what.thedailywtf.com/*
 // @match http://what.thedailywtf.com/*
-// @description inverts emojis for dark themes
+// @description Inverts emojis for dark themes
 // @author hungrier
-// @version 1.6
+// @version 1.7
 // @downloadURL https://github.com/hungrierwtf/wtf_emotes/raw/master/invertemoji.user.js
 // ==/UserScript==
 (function() {
